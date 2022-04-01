@@ -65,6 +65,9 @@ ul {
 .nav-link:hover {
   color: black;
 }
+.sawned {
+  width: 210px;
+}
 
 h6 {
   font-size: 40px;
